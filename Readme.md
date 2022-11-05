@@ -1,4 +1,4 @@
-# Patika.Dev A101 Test Automation Practicum Project
+# [Patika.Dev](https://www.patika.dev/tr) [A101](https://www.a101.com.tr/) Test Automation Practicum Project
 
 - Subject: Adding a product to the cart on Hepsiburada.com 
 - This project includes an E2E automation sample.
@@ -28,13 +28,13 @@
 
 ---------------------------------------------------------------- -----------------------------------------------
 ## Reporting
-Allure Report
+[Allure Report](https://docs.qameta.io/allure-report/)
 - 1-Open the Terminal (Mac) or Console (Windows) application on your device and enter the project's main folder.
 - 2- Run the command by typing mvn clean verify.
 - 3-When the test run is finished, run the command by typing "allure open allure-results"
 - 4-You can review the report from the platform that opens.
 
-Extent Report 
+[Extent Report](https://www.extentreports.com/) 
 - 1-Open the Terminal (Mac) or Console (Windows) application on your device and enter the project's main folder. 
 - 2- Run the command by typing mvn clean verify.
 - 3- When the test run is finished, you can examine the report by selecting suitable browser from \target\surefire-reports\A101-Test-Suite file.
