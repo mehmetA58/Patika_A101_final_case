@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite thread-count="4" name="Suite_CrossBrowser" >
+
+    <listeners>
+        <listener class-name="Listener.Listener"/>
+        <listener class-name="Listener.AnnotationTransformer"/>
+    </listeners>
+
+    <test name="Suit_3" >
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="Tests.TC001"/>
+            <class name="Tests.TC002"/>
+        </classes>
+    </test>
+
+    <test name="Suit_4" >
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="Tests.TC001"/>
+            <class name="Tests.TC002"/>
+        </classes>
+    </test>
+
+</suite>

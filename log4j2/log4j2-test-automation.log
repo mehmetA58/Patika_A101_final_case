@@ -1,0 +1,177 @@
+[INFO ] 2022-11-03 18:45:56.991 [TestNG-tests-1] Listener - I am in onStart method TC001
+[INFO ] 2022-11-03 18:46:04.821 [TestNG-tests-1] WebDriverManager - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+[INFO ] 2022-11-03 18:46:05.031 [TestNG-tests-1] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\PC\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+[INFO ] 2022-11-03 18:46:21.361 [TestNG-tests-1] Listener - Test Started: Test01
+[INFO ] 2022-11-03 18:46:24.347 [TestNG-tests-1] MainPage - User go to http://www.hepsiburada.com/
+[INFO ] 2022-11-03 18:46:34.392 [TestNG-tests-1] MainPage - User is on Hepsiburada Home Page.
+[INFO ] 2022-11-03 18:46:39.960 [TestNG-tests-1] MainPage - User accept cookies on Home Page.
+[ERROR] 2022-11-03 18:46:50.131 [TestNG-tests-1] BaseStepMethod - URL is not http://www.hepsiburada.com/
+[INFO ] 2022-11-03 18:46:50.131 [TestNG-tests-1] MainPage - User assert BaseURL
+[INFO ] 2022-11-03 18:46:50.135 [TestNG-tests-1] MainPage - User go to http://www.hepsiburada.com/
+[INFO ] 2022-11-03 18:46:53.463 [TestNG-tests-1] MainPage - User hover to 'Giris Yap Buton'
+[INFO ] 2022-11-03 18:46:57.250 [TestNG-tests-1] MainPage - User click to 'Giris Yap Buton' 
+[INFO ] 2022-11-03 18:47:03.188 [TestNG-tests-1] MainPage - User send to ecan3115@gmail.com
+[INFO ] 2022-11-03 18:47:03.347 [TestNG-tests-1] MainPage - User click to Login Button after send to UserEmail
+[INFO ] 2022-11-03 18:47:04.220 [TestNG-tests-1] MainPage - User send to USER PASSWORD
+[INFO ] 2022-11-03 18:47:04.364 [TestNG-tests-1] MainPage - User click to Login Button after send to Password 
+[INFO ] 2022-11-03 18:47:12.835 [TestNG-tests-1] HomePage - User login is verified in HomePage 
+[INFO ] 2022-11-03 18:47:13.256 [TestNG-tests-1] HomePage - User searches for robot süpürge
+[INFO ] 2022-11-03 18:47:19.714 [TestNG-tests-1] SearchResultPage - Search Results contains robot süpürge
+[INFO ] 2022-11-03 18:47:20.491 [TestNG-tests-1] SearchResultPage - User click first product in search result page
+[INFO ] 2022-11-03 18:47:20.606 [TestNG-tests-1] SearchResultPage - User switch to product details page
+[INFO ] 2022-11-03 18:47:27.131 [TestNG-tests-1] ProductDetailPage - User click sepete ekle button for satici1
+[INFO ] 2022-11-03 18:47:27.751 [TestNG-tests-1] ProductDetailPage - User click onarim paketi red button for satici1
+[INFO ] 2022-11-03 18:47:28.753 [TestNG-tests-1] ProductDetailPage - User click sepete ekle button for satici2
+[INFO ] 2022-11-03 18:47:29.942 [TestNG-tests-1] ProductDetailPage - User click onarim paketi red button for satici2
+[INFO ] 2022-11-03 18:47:32.441 [TestNG-tests-1] CartPage - User verify to Sepetim on Cart PAGE
+[INFO ] 2022-11-03 18:47:33.658 [TestNG-tests-1] CartPage - User verify to for store-1Roborock S7 Sonic Mopping Akýllý Robot Süpürge S7 Beyaz on Cart PAGE Roborock S7 Sonic Mopping Akýllý Robot Süpürge S7 Beyaz
+[INFO ] 2022-11-03 18:47:33.780 [TestNG-tests-1] CartPage - User verify to for store-2Roborock S7 Sonic Mopping Akýllý Robot Süpürge S7 Beyaz on Cart PAGE with Roborock S7 Sonic Mopping Akýllý Robot Süpürge S7 Beyaz
+[INFO ] 2022-11-03 18:47:33.811 [TestNG-tests-1] Listener - Test01 test is succeed.
+[INFO ] 2022-11-03 18:47:34.806 [TestNG-tests-1] WebDriverManager - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+[INFO ] 2022-11-03 18:47:34.824 [TestNG-tests-1] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\PC\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+[INFO ] 2022-11-03 18:47:39.429 [TestNG-tests-1] Listener - Test Started: Test02
+[INFO ] 2022-11-03 18:47:39.437 [TestNG-tests-1] MainPage - User go to http://www.hepsiburada.com/
+[INFO ] 2022-11-03 18:47:46.111 [TestNG-tests-1] MainPage - User is on Hepsiburada Home Page.
+[INFO ] 2022-11-03 18:47:46.405 [TestNG-tests-1] MainPage - User accept cookies on Home Page.
+[ERROR] 2022-11-03 18:47:56.772 [TestNG-tests-1] BaseStepMethod - URL is not http://www.hepsiburada.com/
+[INFO ] 2022-11-03 18:47:56.772 [TestNG-tests-1] MainPage - User assert BaseURL
+[INFO ] 2022-11-03 18:47:57.083 [TestNG-tests-1] HomePage - User searches for robot süpürge
+[INFO ] 2022-11-03 18:48:02.852 [TestNG-tests-1] SearchResultPage - Search Results contains robot süpürge
+[INFO ] 2022-11-03 18:48:04.845 [TestNG-tests-1] SearchResultPage - User click first product in search result page
+[INFO ] 2022-11-03 18:48:04.935 [TestNG-tests-1] SearchResultPage - User switch to product details page
+[INFO ] 2022-11-03 18:48:12.465 [TestNG-tests-1] ProductDetailPage - User click sepete ekle button for satici1
+[INFO ] 2022-11-03 18:48:13.413 [TestNG-tests-1] ProductDetailPage - User click onarim paketi red button for satici1
+[INFO ] 2022-11-03 18:48:16.388 [TestNG-tests-1] ProductDetailPage - User click sepete ekle button for satici2
+[INFO ] 2022-11-03 18:48:17.554 [TestNG-tests-1] ProductDetailPage - User click onarim paketi red button for satici2
+[INFO ] 2022-11-03 18:48:23.282 [TestNG-tests-1] CartPage - User verify to Sepetim on Cart PAGE
+[INFO ] 2022-11-03 18:48:23.473 [TestNG-tests-1] Listener - Test02 test is succeed.
+[INFO ] 2022-11-03 18:48:23.760 [TestNG-tests-1] Listener - I am in onFinish method TC001
+[ERROR] 2022-11-03 18:48:24.960 [TestNG-tests-1] runtime - Error executing FreeMarker template
+freemarker.core._MiscTemplateException: Template inclusion failed (for parameter value "partials/exceptýon.ftl"):
+Template not found for name "spark/partials/exceptýon.ftl".
+The name was interpreted by this TemplateLoader: ClassTemplateLoader(resourceLoaderClass=com.aventstack.extentreports.ExtentReports, basePackagePath="templates/" /* relatively to resourceLoaderClass pkg */).
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: #include "partials/${view.toString()}...  [in template "spark/spark.spa.ftl" at line 27, column 36]
+----
+	at freemarker.core.Include.accept(Include.java:164) ~[freemarker-2.3.30.jar:2.3.30]
+	at freemarker.core.Environment.visit(Environment.java:370) ~[freemarker-2.3.30.jar:2.3.30]
+	at freemarker.core.IteratorBlock$IterationContext.executedNestedContentForCollOrSeqListing(IteratorBlock.java:321) ~[freemarker-2.3.30.jar:2.3.30]
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedContent(IteratorBlock.java:271) ~[freemarker-2.3.30.jar:2.3.30]
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:244) ~[freemarker-2.3.30.jar:2.3.30]
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:644) ~[freemarker-2.3.30.jar:2.3.30]
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:108) ~[freemarker-2.3.30.jar:2.3.30]
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:94) ~[freemarker-2.3.30.jar:2.3.30]
+	at freemarker.core.Environment.visit(Environment.java:334) ~[freemarker-2.3.30.jar:2.3.30]
+	at freemarker.core.Environment.visit(Environment.java:340) ~[freemarker-2.3.30.jar:2.3.30]
+	at freemarker.core.Environment.process(Environment.java:313) ~[freemarker-2.3.30.jar:2.3.30]
+	at freemarker.template.Template.process(Template.java:383) ~[freemarker-2.3.30.jar:2.3.30]
+	at com.aventstack.extentreports.templating.FreemarkerTemplate.processTemplate(FreemarkerTemplate.java:52) ~[extentreports-5.0.9.jar:?]
+	at com.aventstack.extentreports.templating.FreemarkerTemplate.getSource(FreemarkerTemplate.java:39) ~[extentreports-5.0.9.jar:?]
+	at com.aventstack.extentreports.templating.FreemarkerTemplate.writeTemplate(FreemarkerTemplate.java:45) ~[extentreports-5.0.9.jar:?]
+	at com.aventstack.extentreports.reporter.AbstractFileReporter.processTemplate(AbstractFileReporter.java:74) ~[extentreports-5.0.9.jar:?]
+	at com.aventstack.extentreports.reporter.ExtentSparkReporter.flush(ExtentSparkReporter.java:149) ~[extentreports-5.0.9.jar:?]
+	at com.aventstack.extentreports.reporter.ExtentSparkReporter.access$100(ExtentSparkReporter.java:27) ~[extentreports-5.0.9.jar:?]
+	at com.aventstack.extentreports.reporter.ExtentSparkReporter$1.onNext(ExtentSparkReporter.java:121) ~[extentreports-5.0.9.jar:?]
+	at com.aventstack.extentreports.reporter.ExtentSparkReporter$1.onNext(ExtentSparkReporter.java:113) ~[extentreports-5.0.9.jar:?]
+	at io.reactivex.rxjava3.subjects.PublishSubject$PublishDisposable.onNext(PublishSubject.java:310) ~[rxjava-3.0.4.jar:?]
+	at io.reactivex.rxjava3.subjects.PublishSubject.onNext(PublishSubject.java:226) ~[rxjava-3.0.4.jar:?]
+	at com.aventstack.extentreports.ReactiveSubject.onFlush(ReactiveSubject.java:83) ~[extentreports-5.0.9.jar:?]
+	at com.aventstack.extentreports.AbstractProcessor.onFlush(AbstractProcessor.java:85) ~[extentreports-5.0.9.jar:?]
+	at com.aventstack.extentreports.ExtentReports.flush(ExtentReports.java:279) ~[extentreports-5.0.9.jar:?]
+	at Listener.Listener.onFinish(Listener.java:38) ~[classes/:?]
+	at org.testng.TestRunner.fireEvent(TestRunner.java:923) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.TestRunner.afterRun(TestRunner.java:887) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:599) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64) ~[testng-7.4.0.jar:7.4.0]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) ~[?:?]
+Caused by: freemarker.template.TemplateNotFoundException: Template not found for name "spark/partials/exceptýon.ftl".
+The name was interpreted by this TemplateLoader: ClassTemplateLoader(resourceLoaderClass=com.aventstack.extentreports.ExtentReports, basePackagePath="templates/" /* relatively to resourceLoaderClass pkg */).
+	at freemarker.template.Configuration.getTemplate(Configuration.java:2869) ~[freemarker-2.3.30.jar:2.3.30]
+	at freemarker.core.Environment.getTemplateForInclusion(Environment.java:2883) ~[freemarker-2.3.30.jar:2.3.30]
+	at freemarker.core.Include.accept(Include.java:162) ~[freemarker-2.3.30.jar:2.3.30]
+	... 36 more
+[INFO ] 2022-11-03 19:00:18.004 [main] Listener - I am in onStart method Patika_A101_FinalCase
+[INFO ] 2022-11-03 19:00:19.916 [main] WebDriverManager - Using chromedriver 107.0.5304.62 (resolved driver for Chrome 107)
+[INFO ] 2022-11-03 19:00:19.983 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\PC\.cache\selenium\chromedriver\win32\107.0.5304.62\chromedriver.exe
+[INFO ] 2022-11-03 19:00:26.493 [main] Listener - Test Started: E2E
+[INFO ] 2022-11-03 19:00:28.354 [main] MainPage - User go to http://www.hepsiburada.com/
+[INFO ] 2022-11-03 19:00:35.487 [main] MainPage - User is on Hepsiburada Home Page.
+[INFO ] 2022-11-03 19:00:36.487 [main] MainPage - User accept cookies on Home Page.
+[ERROR] 2022-11-03 19:00:46.907 [main] BaseStepMethod - URL is not http://www.hepsiburada.com/
+[INFO ] 2022-11-03 19:00:46.907 [main] MainPage - User assert BaseURL
+[INFO ] 2022-11-03 19:00:46.909 [main] MainPage - User go to http://www.hepsiburada.com/
+[INFO ] 2022-11-03 19:00:50.088 [main] MainPage - User hover to 'Giris Yap Buton'
+[INFO ] 2022-11-03 19:00:52.693 [main] MainPage - User click to 'Giris Yap Buton' 
+[INFO ] 2022-11-03 19:00:56.946 [main] MainPage - User send to ecan3115@gmail.com
+[INFO ] 2022-11-03 19:00:57.115 [main] MainPage - User click to Login Button after send to UserEmail
+[INFO ] 2022-11-03 19:00:58.156 [main] MainPage - User send to USER PASSWORD
+[INFO ] 2022-11-03 19:00:58.322 [main] MainPage - User click to Login Button after send to Password 
+[INFO ] 2022-11-03 19:01:06.174 [main] HomePage - User login is verified in HomePage 
+[INFO ] 2022-11-03 19:01:06.570 [main] HomePage - User searches for elma
+[INFO ] 2022-11-03 19:01:13.637 [main] SearchResultPage - Search Results contains elma
+[INFO ] 2022-11-03 19:01:13.643 [main] Listener - E2E test is succeed.
+[INFO ] 2022-11-03 19:01:14.644 [main] Listener - I am in onFinish method Patika_A101_FinalCase
+[ERROR] 2022-11-03 19:01:15.814 [main] runtime - Error executing FreeMarker template
+freemarker.core._MiscTemplateException: Template inclusion failed (for parameter value "partials/exceptÄ±on.ftl"):
+Template not found for name "spark/partials/exceptÄ±on.ftl".
+The name was interpreted by this TemplateLoader: ClassTemplateLoader(resourceLoaderClass=com.aventstack.extentreports.ExtentReports, basePackagePath="templates/" /* relatively to resourceLoaderClass pkg */).
+
+----
+FTL stack trace ("~" means nesting-related):
+	- Failed at: #include "partials/${view.toString()}...  [in template "spark/spark.spa.ftl" at line 27, column 36]
+----
+	at freemarker.core.Include.accept(Include.java:164) ~[freemarker-2.3.30.jar:2.3.30]
+	at freemarker.core.Environment.visit(Environment.java:370) ~[freemarker-2.3.30.jar:2.3.30]
+	at freemarker.core.IteratorBlock$IterationContext.executedNestedContentForCollOrSeqListing(IteratorBlock.java:321) ~[freemarker-2.3.30.jar:2.3.30]
+	at freemarker.core.IteratorBlock$IterationContext.executeNestedContent(IteratorBlock.java:271) ~[freemarker-2.3.30.jar:2.3.30]
+	at freemarker.core.IteratorBlock$IterationContext.accept(IteratorBlock.java:244) ~[freemarker-2.3.30.jar:2.3.30]
+	at freemarker.core.Environment.visitIteratorBlock(Environment.java:644) ~[freemarker-2.3.30.jar:2.3.30]
+	at freemarker.core.IteratorBlock.acceptWithResult(IteratorBlock.java:108) ~[freemarker-2.3.30.jar:2.3.30]
+	at freemarker.core.IteratorBlock.accept(IteratorBlock.java:94) ~[freemarker-2.3.30.jar:2.3.30]
+	at freemarker.core.Environment.visit(Environment.java:334) ~[freemarker-2.3.30.jar:2.3.30]
+	at freemarker.core.Environment.visit(Environment.java:340) ~[freemarker-2.3.30.jar:2.3.30]
+	at freemarker.core.Environment.process(Environment.java:313) ~[freemarker-2.3.30.jar:2.3.30]
+	at freemarker.template.Template.process(Template.java:383) ~[freemarker-2.3.30.jar:2.3.30]
+	at com.aventstack.extentreports.templating.FreemarkerTemplate.processTemplate(FreemarkerTemplate.java:52) ~[extentreports-5.0.9.jar:?]
+	at com.aventstack.extentreports.templating.FreemarkerTemplate.getSource(FreemarkerTemplate.java:39) ~[extentreports-5.0.9.jar:?]
+	at com.aventstack.extentreports.templating.FreemarkerTemplate.writeTemplate(FreemarkerTemplate.java:45) ~[extentreports-5.0.9.jar:?]
+	at com.aventstack.extentreports.reporter.AbstractFileReporter.processTemplate(AbstractFileReporter.java:74) ~[extentreports-5.0.9.jar:?]
+	at com.aventstack.extentreports.reporter.ExtentSparkReporter.flush(ExtentSparkReporter.java:149) ~[extentreports-5.0.9.jar:?]
+	at com.aventstack.extentreports.reporter.ExtentSparkReporter.access$100(ExtentSparkReporter.java:27) ~[extentreports-5.0.9.jar:?]
+	at com.aventstack.extentreports.reporter.ExtentSparkReporter$1.onNext(ExtentSparkReporter.java:121) ~[extentreports-5.0.9.jar:?]
+	at com.aventstack.extentreports.reporter.ExtentSparkReporter$1.onNext(ExtentSparkReporter.java:113) ~[extentreports-5.0.9.jar:?]
+	at io.reactivex.rxjava3.subjects.PublishSubject$PublishDisposable.onNext(PublishSubject.java:310) ~[rxjava-3.0.4.jar:?]
+	at io.reactivex.rxjava3.subjects.PublishSubject.onNext(PublishSubject.java:226) ~[rxjava-3.0.4.jar:?]
+	at com.aventstack.extentreports.ReactiveSubject.onFlush(ReactiveSubject.java:83) ~[extentreports-5.0.9.jar:?]
+	at com.aventstack.extentreports.AbstractProcessor.onFlush(AbstractProcessor.java:85) ~[extentreports-5.0.9.jar:?]
+	at com.aventstack.extentreports.ExtentReports.flush(ExtentReports.java:279) ~[extentreports-5.0.9.jar:?]
+	at Listener.Listener.onFinish(Listener.java:38) ~[classes/:?]
+	at org.testng.TestRunner.fireEvent(TestRunner.java:923) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.TestRunner.afterRun(TestRunner.java:887) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.TestRunner.run(TestRunner.java:599) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1063) ~[testng-7.4.0.jar:7.4.0]
+	at org.testng.TestNG.run(TestNG.java:1031) ~[testng-7.4.0.jar:7.4.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66) ~[testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109) ~[testng-rt.jar:?]
+Caused by: freemarker.template.TemplateNotFoundException: Template not found for name "spark/partials/exceptÄ±on.ftl".
+The name was interpreted by this TemplateLoader: ClassTemplateLoader(resourceLoaderClass=com.aventstack.extentreports.ExtentReports, basePackagePath="templates/" /* relatively to resourceLoaderClass pkg */).
+	at freemarker.template.Configuration.getTemplate(Configuration.java:2869) ~[freemarker-2.3.30.jar:2.3.30]
+	at freemarker.core.Environment.getTemplateForInclusion(Environment.java:2883) ~[freemarker-2.3.30.jar:2.3.30]
+	at freemarker.core.Include.accept(Include.java:162) ~[freemarker-2.3.30.jar:2.3.30]
+	... 40 more
