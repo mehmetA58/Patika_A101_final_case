@@ -11,7 +11,7 @@
 - The project is logged with Apache log4j Dependices.
 - The project applied to the Page Object Model Desing Pattern has been developed by OOP concepts.
 - Extent Report and Allure Report technologies are used for reporting.
-![plot](../../Desktop/POM.png)
+![alt text](https://static.wixstatic.com/media/850ae7_ce0ada348c5446629cbf47af4911ca20~mv2.png/v1/fill/w_740,h_555,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/850ae7_ce0ada348c5446629cbf47af4911ca20~mv2.png)
 ---------------------------------------------------------------- ------------------------------
 ## Test Run
 - 1-Open the Terminal (Mac) or Console (Windows) application on your device and enter the project's main folder. 
