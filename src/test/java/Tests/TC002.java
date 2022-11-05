@@ -34,6 +34,8 @@ public class TC002 extends BaseTest {
         allPages.searchResultPage().selectProduct();
         allPages.productDetailPage().add_To_Cart();
         allPages.cartPage().go_To_Cart();
+
+
     }
 
     }
